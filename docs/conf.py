@@ -28,6 +28,6 @@ html_static_path = ['_static']
 
 # -- Options for recommonmark ------------------------------------------------
 # https://recommonmark.readthedocs.io/en/latest/auto_structify.html
-from recommonmark.transform import AutoStructify
-def setup(app):
-  app.add_transform(AutoStructify)
+# from recommonmark.transform import AutoStructify
+# def setup(app):
+#   app.add_transform(AutoStructify)
